@@ -11,7 +11,7 @@ Pillow (PIL) library
 2) Install the Pillow library using "pip install Pillow"
 
 # Usage
-1) Clone the repository or download the file_converter.py script.
+1) Clone the repository or download the FileConverter.py script.
 2) Run the script.
 3) Follow the on-screen instructions to input the file name/path and choose the output format.
 
